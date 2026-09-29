@@ -1,4 +1,4 @@
-# Diplom_3
+
 
 ## Задание 3: UI-автотесты для Stellar Burgers
 
